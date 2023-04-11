@@ -4,7 +4,7 @@ export const projects = [
     title: "boAt Lifestyle-Clone",
     des: "BoAt is an India-based consumer electronics brand established in 2015 that markets earphones, headphones stereos, travel chargers and premium rugged cables.This was a collaborative project built by team of 4 members in 5 days.",
     demo: "",
-    live: "https://poetic-quokka-d75aa0.netlify.app/",
+    live: "https://visionary-profiterole-96c1db.netlify.app/",
     gitHub: "https://github.com/bharatvishvkarma/boAt-lifeStyle-Clone",
     technologies: [
       "HTML",
