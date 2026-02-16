@@ -1,4 +1,4 @@
-import React, { useState, useRef, useContext } from 'react';
+import React, {  useRef, useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
 import styles from './Navbar.module.css';
 
@@ -26,9 +26,7 @@ const cresent = {
 	 transform: 'scale(1)',
 };
 const Navbar = () => {
-	// const [preScrollPos, setPreScrollPos] = useState(
-	// 	window.pageYOffset,
-	// );
+
 	const navRef = useRef();
 
 	const { newTheme, mode, handleMode, open, handleMenu } =
