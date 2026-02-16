@@ -24,7 +24,7 @@ export const projects = [
     technologies: [
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
       "React Js",
       "Node Js"
     ],
