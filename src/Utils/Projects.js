@@ -10,10 +10,22 @@ export const projects = [
       "HTML",
       "CSS",
       "JavaScript"
-     
-      
     ],
   },
+  {
+    img: "https://res.cloudinary.com/ddnulyays/image/upload/v1771225223/Screenshot_2026-02-16_122956_gfftwi.png",
+    title: "Heti's Kitchen",
+    des: "Heti's Kitchen",
+    demo: "",
+    live: "https://hetiskitchen.com/",
+    gitHub: "",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+  },
+  
 
   
  
