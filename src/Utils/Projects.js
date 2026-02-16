@@ -18,7 +18,7 @@ export const projects = [
     des: "Heti's Kitchen",
     demo: "",
     live: "https://hetiskitchen.com/",
-    gitHub: "https://github.com/bharatvishvkarma/boAt-lifeStyle-Clone",
+    gitHub: "",
     technologies: [
       "HTML",
       "CSS",
